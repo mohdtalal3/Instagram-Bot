@@ -1,0 +1,6 @@
+Appium-Python-Client==4.0.0
+Flask==3.0.2
+requests==2.31.0
+uiautomator2==3.0.3
+uiautomator==1.0.2
+pandas==2.2.0

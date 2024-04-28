@@ -1,0 +1,1 @@
+curl -X POST http://127.0.0.1:5000/run_bot -F "proxy_enable=0" -F "output_directory=." -F "login_info_csv=@C:/Users/Talal_HP/Desktop/fiverr/mob/login_info.csv" -F "usernames_csv=@C:/Users/Talal_HP/Desktop/fiverr/mob/usernames.csv" --output C:/Users/Talal_HP/Desktop/fiverr/mob/bot_logs.log
